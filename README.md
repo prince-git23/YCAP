@@ -1,1 +1,1 @@
-# YCAP Session 2025-26
+# YCAP-Technical Session 2025-26
